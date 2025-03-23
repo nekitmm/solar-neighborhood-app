@@ -1,0 +1,835 @@
+{
+  "systems": [
+    {
+      "name": "Alpha Centauri",
+      "distance": 4.4,
+      "components": 2,
+      "stars": [
+        {
+          "name": "Alpha Centauri A",
+          "component": "A",
+          "distance": 4.4,
+          "class": "G2",
+          "visual_mag": "-0.01",
+          "abs_mag": "4.34",
+          "color": "yellow"
+        },
+        {
+          "name": "Alpha Centauri B",
+          "component": "B",
+          "distance": 4.4,
+          "class": "K0",
+          "visual_mag": "1.35",
+          "abs_mag": "5.70",
+          "color": "orange",
+          "separation": "AB:24 AU"
+        }
+      ],
+      "separations": {
+        "AB": 24.0
+      }
+    },
+    {
+      "name": "Sirius",
+      "distance": 8.6,
+      "components": 2,
+      "stars": [
+        {
+          "name": "Sirius A",
+          "component": "A",
+          "distance": 8.6,
+          "class": "A1",
+          "visual_mag": "-1.46",
+          "abs_mag": "1.43",
+          "color": "white"
+        },
+        {
+          "name": "Sirius B",
+          "component": "B",
+          "distance": 8.6,
+          "class": "DA2",
+          "visual_mag": "8.44",
+          "abs_mag": "11.33",
+          "color": "grey",
+          "separation": "AB:20 AU"
+        }
+      ],
+      "separations": {
+        "AB": 20.0
+      }
+    },
+    {
+      "name": "L 726-8",
+      "distance": 8.73,
+      "components": 2,
+      "stars": [
+        {
+          "name": "L 726-8 A",
+          "component": "A",
+          "distance": 8.73,
+          "class": "M5.5",
+          "visual_mag": "12.41",
+          "abs_mag": "15.27",
+          "color": "red"
+        },
+        {
+          "name": "L 726-8 B",
+          "component": "B",
+          "distance": 8.73,
+          "class": "M5.5",
+          "visual_mag": "13.25",
+          "abs_mag": "16.11",
+          "color": "red",
+          "separation": "AB:15 AU"
+        }
+      ],
+      "separations": {
+        "AB": 15.0
+      }
+    },
+    {
+      "name": "L 789-6",
+      "distance": 11.08,
+      "components": 3,
+      "stars": [
+        {
+          "name": "L 789-6 A",
+          "component": "A",
+          "distance": 11.08,
+          "class": "M5.5",
+          "visual_mag": "13.3",
+          "abs_mag": "15.6",
+          "color": "red"
+        },
+        {
+          "name": "L 789-6 B",
+          "component": "B",
+          "distance": 11.08,
+          "class": "M5",
+          "visual_mag": "13.3",
+          "abs_mag": "15.6",
+          "color": "red",
+          "separation": "AB:1.2 AU"
+        },
+        {
+          "name": "L 789-6 C",
+          "component": "C",
+          "distance": 11.08,
+          "class": "M7",
+          "visual_mag": "14.0",
+          "abs_mag": "16.3",
+          "color": "red",
+          "separation": "AC:0.029 AU"
+        }
+      ],
+      "separations": {
+        "AB": 1.2,
+        "AC": 0.029
+      }
+    },
+    {
+      "name": "Procyon",
+      "distance": 11.41,
+      "components": 2,
+      "stars": [
+        {
+          "name": "Procyon A",
+          "component": "A",
+          "distance": 11.41,
+          "class": "F5",
+          "visual_mag": "0.36",
+          "abs_mag": "2.64",
+          "color": "lyellow"
+        },
+        {
+          "name": "Procyon B",
+          "component": "B",
+          "distance": 11.41,
+          "class": "DA",
+          "visual_mag": "10.7",
+          "abs_mag": "13.0",
+          "color": "grey",
+          "separation": "AB:16 AU"
+        }
+      ],
+      "separations": {
+        "AB": 16.0
+      }
+    },
+    {
+      "name": "61 Cygni",
+      "distance": 11.41,
+      "components": 2,
+      "stars": [
+        {
+          "name": "61 Cygni A",
+          "component": "A",
+          "distance": 11.41,
+          "class": "K5",
+          "visual_mag": "5.20",
+          "abs_mag": "7.49",
+          "color": "orange"
+        },
+        {
+          "name": "61 Cygni B",
+          "component": "B",
+          "distance": 11.41,
+          "class": "K7",
+          "visual_mag": "6.05",
+          "abs_mag": "8.33",
+          "color": "orange",
+          "separation": "AB:86 AU"
+        }
+      ],
+      "separations": {
+        "AB": 86.0
+      }
+    },
+    {
+      "name": "Struve 2398",
+      "distance": 11.6,
+      "components": 2,
+      "stars": [
+        {
+          "name": "Struve 2398 A",
+          "component": "A",
+          "distance": 11.6,
+          "class": "M4",
+          "visual_mag": "8.94",
+          "abs_mag": "11.18",
+          "color": "red"
+        },
+        {
+          "name": "Struve 2398 B",
+          "component": "B",
+          "distance": 11.6,
+          "class": "M5",
+          "visual_mag": "9.70",
+          "abs_mag": "11.97",
+          "color": "red",
+          "separation": "AB:49 AU"
+        }
+      ],
+      "separations": {
+        "AB": 49.0
+      }
+    },
+    {
+      "name": "Groombridge 34",
+      "distance": 11.64,
+      "components": 2,
+      "stars": [
+        {
+          "name": "Groombridge 34 A",
+          "component": "A",
+          "distance": 11.64,
+          "class": "M2",
+          "visual_mag": "8.09",
+          "abs_mag": "10.33",
+          "color": "red"
+        },
+        {
+          "name": "Groombridge 34 B",
+          "component": "B",
+          "distance": 11.64,
+          "class": "M6",
+          "visual_mag": "11.06",
+          "abs_mag": "13.30",
+          "color": "red",
+          "separation": "AB:150 AU"
+        }
+      ],
+      "separations": {
+        "AB": 150.0
+      }
+    },
+    {
+      "name": "Epsilon Indi",
+      "distance": 11.83,
+      "components": 3,
+      "stars": [
+        {
+          "name": "Epsilon Indi A",
+          "component": "A",
+          "distance": 11.83,
+          "class": "K4",
+          "visual_mag": "4.69",
+          "abs_mag": "6.89",
+          "color": "orange"
+        },
+        {
+          "name": "Epsilon Indi B",
+          "component": "B",
+          "distance": 11.83,
+          "class": "T1",
+          "visual_mag": "-",
+          "abs_mag": "-",
+          "color": "darkred",
+          "separation": "AB:1500 AU"
+        },
+        {
+          "name": "Epsilon Indi C",
+          "component": "C",
+          "distance": 11.83,
+          "class": "T6",
+          "visual_mag": "-",
+          "abs_mag": "-",
+          "color": "darkred",
+          "separation": "BC:2.7 AU"
+        }
+      ],
+      "separations": {
+        "AB": 1500.0,
+        "BC": 2.7
+      }
+    },
+    {
+      "name": "SCR 1845-6357",
+      "distance": 12.84,
+      "components": 2,
+      "stars": [
+        {
+          "name": "SCR 1845-6357 A",
+          "component": "A",
+          "distance": 12.84,
+          "class": "M8.5",
+          "visual_mag": "17.39",
+          "abs_mag": "19.41",
+          "color": "red"
+        },
+        {
+          "name": "SCR 1845-6357 B",
+          "component": "B",
+          "distance": 12.84,
+          "class": "T5.5",
+          "visual_mag": "-",
+          "abs_mag": "-",
+          "color": "darkred",
+          "separation": "AB:4.5 AU"
+        }
+      ],
+      "separations": {
+        "AB": 4.5
+      }
+    },
+    {
+      "name": "Kruger 60",
+      "distance": 13.07,
+      "components": 2,
+      "stars": [
+        {
+          "name": "Kruger 60 A",
+          "component": "A",
+          "distance": 13.07,
+          "class": "M3",
+          "visual_mag": "9.85",
+          "abs_mag": "11.85",
+          "color": "red"
+        },
+        {
+          "name": "Kruger 60 B",
+          "component": "B",
+          "distance": 13.07,
+          "class": "M6",
+          "visual_mag": "11.3",
+          "abs_mag": "13.3",
+          "color": "red",
+          "separation": "AB:9.7 AU"
+        }
+      ],
+      "separations": {
+        "AB": 9.7
+      }
+    },
+    {
+      "name": "Ross 614",
+      "distance": 13.43,
+      "components": 2,
+      "stars": [
+        {
+          "name": "Ross 614 A",
+          "component": "A",
+          "distance": 13.43,
+          "class": "M4.5",
+          "visual_mag": "11.12",
+          "abs_mag": "13.05",
+          "color": "red"
+        },
+        {
+          "name": "Ross 614 B",
+          "component": "B",
+          "distance": 13.43,
+          "class": "M7",
+          "visual_mag": "14.6",
+          "abs_mag": "16.5",
+          "color": "red",
+          "separation": "AB:3.8 AU"
+        }
+      ],
+      "separations": {
+        "AB": 3.8
+      }
+    },
+    {
+      "name": "Wolf 424",
+      "distance": 14.05,
+      "components": 2,
+      "stars": [
+        {
+          "name": "Wolf 424 A",
+          "component": "A",
+          "distance": 14.05,
+          "class": "M5.5",
+          "visual_mag": "13.04",
+          "abs_mag": "14.87",
+          "color": "red"
+        },
+        {
+          "name": "Wolf 424 B",
+          "component": "B",
+          "distance": 14.05,
+          "class": "M7",
+          "visual_mag": "13.3",
+          "abs_mag": "15.1",
+          "color": "red",
+          "separation": "AB:3.3 AU"
+        }
+      ],
+      "separations": {
+        "AB": 3.3
+      }
+    },
+    {
+      "name": "G208-44",
+      "distance": 15.39,
+      "components": 3,
+      "stars": [
+        {
+          "name": "G208-44 A",
+          "component": "A",
+          "distance": 15.39,
+          "class": "M5.5",
+          "visual_mag": "13.41",
+          "abs_mag": "15.04",
+          "color": "red"
+        },
+        {
+          "name": "G208-44 B",
+          "component": "B",
+          "distance": 15.39,
+          "class": "M6",
+          "visual_mag": "14.01",
+          "abs_mag": "15.64",
+          "color": "red",
+          "separation": "AB:35 AU"
+        },
+        {
+          "name": "G208-44 C",
+          "component": "C",
+          "distance": 15.39,
+          "class": "M8",
+          "visual_mag": "16.66",
+          "abs_mag": "18.29",
+          "color": "red",
+          "separation": "AC:1.3 AU"
+        }
+      ],
+      "separations": {
+        "AB": 35.0,
+        "AC": 1.3
+      }
+    },
+    {
+      "name": "Lalande 21258",
+      "distance": 15.76,
+      "components": 2,
+      "stars": [
+        {
+          "name": "Lalande 21258 A",
+          "component": "A",
+          "distance": 15.76,
+          "class": "M2",
+          "visual_mag": "8.82",
+          "abs_mag": "10.40",
+          "color": "red"
+        },
+        {
+          "name": "Lalande 21258 B",
+          "component": "B",
+          "distance": 15.76,
+          "class": "M6",
+          "visual_mag": "14.40",
+          "abs_mag": "15.78",
+          "color": "red",
+          "separation": "AB:130 AU"
+        }
+      ],
+      "separations": {
+        "AB": 130.0
+      }
+    },
+    {
+      "name": "Omicron\u00b2 Eridani",
+      "distance": 16.45,
+      "components": 3,
+      "stars": [
+        {
+          "name": "Omicron\u00b2 Eridani A",
+          "component": "A",
+          "distance": 16.45,
+          "class": "K1",
+          "visual_mag": "4.43",
+          "abs_mag": "5.92",
+          "color": "orange"
+        },
+        {
+          "name": "Omicron\u00b2 Eridani B",
+          "component": "B",
+          "distance": 16.45,
+          "class": "DA4",
+          "visual_mag": "9.52",
+          "abs_mag": "11.01",
+          "color": "grey",
+          "separation": "AB:420 AU"
+        },
+        {
+          "name": "Omicron\u00b2 Eridani C",
+          "component": "C",
+          "distance": 16.45,
+          "class": "M4.5",
+          "visual_mag": "11.17",
+          "abs_mag": "12.66",
+          "color": "red",
+          "separation": "BC:35 AU"
+        }
+      ],
+      "separations": {
+        "AB": 420.0,
+        "BC": 35.0
+      }
+    },
+    {
+      "name": "70 Ophiuchi",
+      "distance": 16.59,
+      "components": 2,
+      "stars": [
+        {
+          "name": "70 Ophiuchi A",
+          "component": "A",
+          "distance": 16.59,
+          "class": "K0",
+          "visual_mag": "4.03",
+          "abs_mag": "5.50",
+          "color": "orange"
+        },
+        {
+          "name": "70 Ophiuchi B",
+          "component": "B",
+          "distance": 16.59,
+          "class": "K5",
+          "visual_mag": "6.00",
+          "abs_mag": "7.47",
+          "color": "orange",
+          "separation": "AB:23 AU"
+        }
+      ],
+      "separations": {
+        "AB": 23.0
+      }
+    },
+    {
+      "name": "G9-38",
+      "distance": 17.05,
+      "components": 2,
+      "stars": [
+        {
+          "name": "G9-38 A",
+          "component": "A",
+          "distance": 17.05,
+          "class": "M5.5",
+          "visual_mag": "14.06",
+          "abs_mag": "15.47",
+          "color": "red"
+        },
+        {
+          "name": "G9-38 B",
+          "component": "B",
+          "distance": 17.05,
+          "class": "M5.5",
+          "visual_mag": "14.92",
+          "abs_mag": "16.33",
+          "color": "red",
+          "separation": "AB:24 AU"
+        }
+      ],
+      "separations": {
+        "AB": 24.0
+      }
+    },
+    {
+      "name": "L 722-22",
+      "distance": 17.3,
+      "components": 2,
+      "stars": [
+        {
+          "name": "L 722-22 A",
+          "component": "A",
+          "distance": 17.3,
+          "class": "M4",
+          "visual_mag": "12.03",
+          "abs_mag": "13.41",
+          "color": "red"
+        },
+        {
+          "name": "L 722-22 B",
+          "component": "B",
+          "distance": 17.3,
+          "class": "M6",
+          "visual_mag": "14.3",
+          "abs_mag": "15.7",
+          "color": "red",
+          "separation": "AB:0.74 AU"
+        }
+      ],
+      "separations": {
+        "AB": 0.74
+      }
+    },
+    {
+      "name": "Stein 2051",
+      "distance": 17.98,
+      "components": 2,
+      "stars": [
+        {
+          "name": "Stein 2051 A",
+          "component": "A",
+          "distance": 17.98,
+          "class": "M4",
+          "visual_mag": "11.08",
+          "abs_mag": "12.37",
+          "color": "red"
+        },
+        {
+          "name": "Stein 2051 B",
+          "component": "B",
+          "distance": 17.98,
+          "class": "DC5",
+          "visual_mag": "12.44",
+          "abs_mag": "13.73",
+          "color": "grey",
+          "separation": "AB:39 AU"
+        }
+      ],
+      "separations": {
+        "AB": 39.0
+      }
+    },
+    {
+      "name": "L 668-21",
+      "distance": 18.83,
+      "components": 2,
+      "stars": [
+        {
+          "name": "L 668-21 A",
+          "component": "A",
+          "distance": 18.83,
+          "class": "M1",
+          "visual_mag": "8.15",
+          "abs_mag": "9.34",
+          "color": "red"
+        },
+        {
+          "name": "L 668-21 B",
+          "component": "B",
+          "distance": 18.83,
+          "class": "T6",
+          "visual_mag": "-",
+          "abs_mag": "-",
+          "color": "darkred",
+          "separation": "AB:46 AU"
+        }
+      ],
+      "separations": {
+        "AB": 46.0
+      }
+    },
+    {
+      "name": "Wolf 1055",
+      "distance": 19.16,
+      "components": 2,
+      "stars": [
+        {
+          "name": "Wolf 1055 A",
+          "component": "A",
+          "distance": 19.16,
+          "class": "M3.5",
+          "visual_mag": "9.12",
+          "abs_mag": "10.28",
+          "color": "red"
+        },
+        {
+          "name": "Wolf 1055 B",
+          "component": "B",
+          "distance": 19.16,
+          "class": "M8",
+          "visual_mag": "17.52",
+          "abs_mag": "18.68",
+          "color": "red",
+          "separation": "AB:430 AU"
+        }
+      ],
+      "separations": {
+        "AB": 430.0
+      }
+    },
+    {
+      "name": "Lalande 27173",
+      "distance": 19.26,
+      "components": 4,
+      "stars": [
+        {
+          "name": "Lalande 27173 A",
+          "component": "A",
+          "distance": 19.26,
+          "class": "K5",
+          "visual_mag": "5.75",
+          "abs_mag": "6.89",
+          "color": "orange"
+        },
+        {
+          "name": "Lalande 27173 B",
+          "component": "B",
+          "distance": 19.26,
+          "class": "M1",
+          "visual_mag": "8.07",
+          "abs_mag": "9.21",
+          "color": "red",
+          "separation": "AB:130 AU"
+        },
+        {
+          "name": "Lalande 27173 C",
+          "component": "C",
+          "distance": 19.26,
+          "class": "M3",
+          "visual_mag": "10.5",
+          "abs_mag": "11.6",
+          "color": "red",
+          "separation": "BC:0.84 AU"
+        },
+        {
+          "name": "Lalande 27173 D",
+          "component": "D",
+          "distance": 19.26,
+          "class": "T8",
+          "visual_mag": "-",
+          "abs_mag": "-",
+          "color": "darkred",
+          "separation": "AD:1500 AU"
+        }
+      ],
+      "separations": {
+        "AB": 130.0,
+        "BC": 0.84,
+        "AD": 1500.0
+      }
+    },
+    {
+      "name": "Eta Cassiopeiae",
+      "distance": 19.42,
+      "components": 2,
+      "stars": [
+        {
+          "name": "Eta Cassiopeiae A",
+          "component": "A",
+          "distance": 19.42,
+          "class": "G0",
+          "visual_mag": "3.46",
+          "abs_mag": "4.59",
+          "color": "yellow"
+        },
+        {
+          "name": "Eta Cassiopeiae B",
+          "component": "B",
+          "distance": 19.42,
+          "class": "K7",
+          "visual_mag": "7.51",
+          "abs_mag": "8.64",
+          "color": "orange",
+          "separation": "AB:71 AU"
+        }
+      ],
+      "separations": {
+        "AB": 71.0
+      }
+    },
+    {
+      "name": "36 Ophiuchi",
+      "distance": 19.52,
+      "components": 3,
+      "stars": [
+        {
+          "name": "36 Ophiuchi A",
+          "component": "A",
+          "distance": 19.52,
+          "class": "K1",
+          "visual_mag": "5.07",
+          "abs_mag": "6.18",
+          "color": "orange"
+        },
+        {
+          "name": "36 Ophiuchi B",
+          "component": "B",
+          "distance": 19.52,
+          "class": "K1",
+          "visual_mag": "5.11",
+          "abs_mag": "6.23",
+          "color": "orange",
+          "separation": "AB:83 AU"
+        },
+        {
+          "name": "36 Ophiuchi C",
+          "component": "C",
+          "distance": 19.47,
+          "class": "K5",
+          "visual_mag": "6.33",
+          "abs_mag": "7.45",
+          "color": "orange",
+          "separation": "AC:4400 AU"
+        }
+      ],
+      "separations": {
+        "AB": 83.0,
+        "AC": 4400.0
+      }
+    },
+    {
+      "name": "CD-36 13940",
+      "distance": 19.74,
+      "components": 2,
+      "stars": [
+        {
+          "name": "CD-36 13940 A",
+          "component": "A",
+          "distance": 19.74,
+          "class": "K3",
+          "visual_mag": "5.32",
+          "abs_mag": "6.41",
+          "color": "orange"
+        },
+        {
+          "name": "CD-36 13940 B",
+          "component": "B",
+          "distance": 19.74,
+          "class": "M3.5",
+          "visual_mag": "11.5",
+          "abs_mag": "12.6",
+          "color": "red",
+          "separation": "AB:42 AU"
+        }
+      ],
+      "separations": {
+        "AB": 42.0
+      }
+    }
+  ]
+}

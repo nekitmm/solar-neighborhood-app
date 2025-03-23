@@ -1,0 +1,415 @@
+{
+  "Alpha Centauri A": {
+    "system_name": "Alpha Centauri",
+    "component": "A",
+    "separation": null,
+    "system_components": 2,
+    "system_distance": 4.4
+  },
+  "Alpha Centauri B": {
+    "system_name": "Alpha Centauri",
+    "component": "B",
+    "separation": "AB:24 AU",
+    "system_components": 2,
+    "system_distance": 4.4
+  },
+  "Sirius A": {
+    "system_name": "Sirius",
+    "component": "A",
+    "separation": null,
+    "system_components": 2,
+    "system_distance": 8.6
+  },
+  "Sirius B": {
+    "system_name": "Sirius",
+    "component": "B",
+    "separation": "AB:20 AU",
+    "system_components": 2,
+    "system_distance": 8.6
+  },
+  "L 726-8 A": {
+    "system_name": "L 726-8",
+    "component": "A",
+    "separation": null,
+    "system_components": 2,
+    "system_distance": 8.73
+  },
+  "L 726-8 B": {
+    "system_name": "L 726-8",
+    "component": "B",
+    "separation": "AB:15 AU",
+    "system_components": 2,
+    "system_distance": 8.73
+  },
+  "L 789-6 A": {
+    "system_name": "L 789-6",
+    "component": "A",
+    "separation": null,
+    "system_components": 3,
+    "system_distance": 11.08
+  },
+  "L 789-6 B": {
+    "system_name": "L 789-6",
+    "component": "B",
+    "separation": "AB:1.2 AU",
+    "system_components": 3,
+    "system_distance": 11.08
+  },
+  "L 789-6 C": {
+    "system_name": "L 789-6",
+    "component": "C",
+    "separation": "AC:0.029 AU",
+    "system_components": 3,
+    "system_distance": 11.08
+  },
+  "Procyon A": {
+    "system_name": "Procyon",
+    "component": "A",
+    "separation": null,
+    "system_components": 2,
+    "system_distance": 11.41
+  },
+  "Procyon B": {
+    "system_name": "Procyon",
+    "component": "B",
+    "separation": "AB:16 AU",
+    "system_components": 2,
+    "system_distance": 11.41
+  },
+  "61 Cygni A": {
+    "system_name": "61 Cygni",
+    "component": "A",
+    "separation": null,
+    "system_components": 2,
+    "system_distance": 11.41
+  },
+  "61 Cygni B": {
+    "system_name": "61 Cygni",
+    "component": "B",
+    "separation": "AB:86 AU",
+    "system_components": 2,
+    "system_distance": 11.41
+  },
+  "Struve 2398 A": {
+    "system_name": "Struve 2398",
+    "component": "A",
+    "separation": null,
+    "system_components": 2,
+    "system_distance": 11.6
+  },
+  "Struve 2398 B": {
+    "system_name": "Struve 2398",
+    "component": "B",
+    "separation": "AB:49 AU",
+    "system_components": 2,
+    "system_distance": 11.6
+  },
+  "Groombridge 34 A": {
+    "system_name": "Groombridge 34",
+    "component": "A",
+    "separation": null,
+    "system_components": 2,
+    "system_distance": 11.64
+  },
+  "Groombridge 34 B": {
+    "system_name": "Groombridge 34",
+    "component": "B",
+    "separation": "AB:150 AU",
+    "system_components": 2,
+    "system_distance": 11.64
+  },
+  "Epsilon Indi A": {
+    "system_name": "Epsilon Indi",
+    "component": "A",
+    "separation": null,
+    "system_components": 3,
+    "system_distance": 11.83
+  },
+  "Epsilon Indi B": {
+    "system_name": "Epsilon Indi",
+    "component": "B",
+    "separation": "AB:1500 AU",
+    "system_components": 3,
+    "system_distance": 11.83
+  },
+  "Epsilon Indi C": {
+    "system_name": "Epsilon Indi",
+    "component": "C",
+    "separation": "BC:2.7 AU",
+    "system_components": 3,
+    "system_distance": 11.83
+  },
+  "SCR 1845-6357 A": {
+    "system_name": "SCR 1845-6357",
+    "component": "A",
+    "separation": null,
+    "system_components": 2,
+    "system_distance": 12.84
+  },
+  "SCR 1845-6357 B": {
+    "system_name": "SCR 1845-6357",
+    "component": "B",
+    "separation": "AB:4.5 AU",
+    "system_components": 2,
+    "system_distance": 12.84
+  },
+  "Kruger 60 A": {
+    "system_name": "Kruger 60",
+    "component": "A",
+    "separation": null,
+    "system_components": 2,
+    "system_distance": 13.07
+  },
+  "Kruger 60 B": {
+    "system_name": "Kruger 60",
+    "component": "B",
+    "separation": "AB:9.7 AU",
+    "system_components": 2,
+    "system_distance": 13.07
+  },
+  "Ross 614 A": {
+    "system_name": "Ross 614",
+    "component": "A",
+    "separation": null,
+    "system_components": 2,
+    "system_distance": 13.43
+  },
+  "Ross 614 B": {
+    "system_name": "Ross 614",
+    "component": "B",
+    "separation": "AB:3.8 AU",
+    "system_components": 2,
+    "system_distance": 13.43
+  },
+  "Wolf 424 A": {
+    "system_name": "Wolf 424",
+    "component": "A",
+    "separation": null,
+    "system_components": 2,
+    "system_distance": 14.05
+  },
+  "Wolf 424 B": {
+    "system_name": "Wolf 424",
+    "component": "B",
+    "separation": "AB:3.3 AU",
+    "system_components": 2,
+    "system_distance": 14.05
+  },
+  "G208-44 A": {
+    "system_name": "G208-44",
+    "component": "A",
+    "separation": null,
+    "system_components": 3,
+    "system_distance": 15.39
+  },
+  "G208-44 B": {
+    "system_name": "G208-44",
+    "component": "B",
+    "separation": "AB:35 AU",
+    "system_components": 3,
+    "system_distance": 15.39
+  },
+  "G208-44 C": {
+    "system_name": "G208-44",
+    "component": "C",
+    "separation": "AC:1.3 AU",
+    "system_components": 3,
+    "system_distance": 15.39
+  },
+  "Lalande 21258 A": {
+    "system_name": "Lalande 21258",
+    "component": "A",
+    "separation": null,
+    "system_components": 2,
+    "system_distance": 15.76
+  },
+  "Lalande 21258 B": {
+    "system_name": "Lalande 21258",
+    "component": "B",
+    "separation": "AB:130 AU",
+    "system_components": 2,
+    "system_distance": 15.76
+  },
+  "Omicron\u00b2 Eridani A": {
+    "system_name": "Omicron\u00b2 Eridani",
+    "component": "A",
+    "separation": null,
+    "system_components": 3,
+    "system_distance": 16.45
+  },
+  "Omicron\u00b2 Eridani B": {
+    "system_name": "Omicron\u00b2 Eridani",
+    "component": "B",
+    "separation": "AB:420 AU",
+    "system_components": 3,
+    "system_distance": 16.45
+  },
+  "Omicron\u00b2 Eridani C": {
+    "system_name": "Omicron\u00b2 Eridani",
+    "component": "C",
+    "separation": "BC:35 AU",
+    "system_components": 3,
+    "system_distance": 16.45
+  },
+  "70 Ophiuchi A": {
+    "system_name": "70 Ophiuchi",
+    "component": "A",
+    "separation": null,
+    "system_components": 2,
+    "system_distance": 16.59
+  },
+  "70 Ophiuchi B": {
+    "system_name": "70 Ophiuchi",
+    "component": "B",
+    "separation": "AB:23 AU",
+    "system_components": 2,
+    "system_distance": 16.59
+  },
+  "G9-38 A": {
+    "system_name": "G9-38",
+    "component": "A",
+    "separation": null,
+    "system_components": 2,
+    "system_distance": 17.05
+  },
+  "G9-38 B": {
+    "system_name": "G9-38",
+    "component": "B",
+    "separation": "AB:24 AU",
+    "system_components": 2,
+    "system_distance": 17.05
+  },
+  "L 722-22 A": {
+    "system_name": "L 722-22",
+    "component": "A",
+    "separation": null,
+    "system_components": 2,
+    "system_distance": 17.3
+  },
+  "L 722-22 B": {
+    "system_name": "L 722-22",
+    "component": "B",
+    "separation": "AB:0.74 AU",
+    "system_components": 2,
+    "system_distance": 17.3
+  },
+  "Stein 2051 A": {
+    "system_name": "Stein 2051",
+    "component": "A",
+    "separation": null,
+    "system_components": 2,
+    "system_distance": 17.98
+  },
+  "Stein 2051 B": {
+    "system_name": "Stein 2051",
+    "component": "B",
+    "separation": "AB:39 AU",
+    "system_components": 2,
+    "system_distance": 17.98
+  },
+  "L 668-21 A": {
+    "system_name": "L 668-21",
+    "component": "A",
+    "separation": null,
+    "system_components": 2,
+    "system_distance": 18.83
+  },
+  "L 668-21 B": {
+    "system_name": "L 668-21",
+    "component": "B",
+    "separation": "AB:46 AU",
+    "system_components": 2,
+    "system_distance": 18.83
+  },
+  "Wolf 1055 A": {
+    "system_name": "Wolf 1055",
+    "component": "A",
+    "separation": null,
+    "system_components": 2,
+    "system_distance": 19.16
+  },
+  "Wolf 1055 B": {
+    "system_name": "Wolf 1055",
+    "component": "B",
+    "separation": "AB:430 AU",
+    "system_components": 2,
+    "system_distance": 19.16
+  },
+  "Lalande 27173 A": {
+    "system_name": "Lalande 27173",
+    "component": "A",
+    "separation": null,
+    "system_components": 4,
+    "system_distance": 19.26
+  },
+  "Lalande 27173 B": {
+    "system_name": "Lalande 27173",
+    "component": "B",
+    "separation": "AB:130 AU",
+    "system_components": 4,
+    "system_distance": 19.26
+  },
+  "Lalande 27173 C": {
+    "system_name": "Lalande 27173",
+    "component": "C",
+    "separation": "BC:0.84 AU",
+    "system_components": 4,
+    "system_distance": 19.26
+  },
+  "Lalande 27173 D": {
+    "system_name": "Lalande 27173",
+    "component": "D",
+    "separation": "AD:1500 AU",
+    "system_components": 4,
+    "system_distance": 19.26
+  },
+  "Eta Cassiopeiae A": {
+    "system_name": "Eta Cassiopeiae",
+    "component": "A",
+    "separation": null,
+    "system_components": 2,
+    "system_distance": 19.42
+  },
+  "Eta Cassiopeiae B": {
+    "system_name": "Eta Cassiopeiae",
+    "component": "B",
+    "separation": "AB:71 AU",
+    "system_components": 2,
+    "system_distance": 19.42
+  },
+  "36 Ophiuchi A": {
+    "system_name": "36 Ophiuchi",
+    "component": "A",
+    "separation": null,
+    "system_components": 3,
+    "system_distance": 19.52
+  },
+  "36 Ophiuchi B": {
+    "system_name": "36 Ophiuchi",
+    "component": "B",
+    "separation": "AB:83 AU",
+    "system_components": 3,
+    "system_distance": 19.52
+  },
+  "36 Ophiuchi C": {
+    "system_name": "36 Ophiuchi",
+    "component": "C",
+    "separation": "AC:4400 AU",
+    "system_components": 3,
+    "system_distance": 19.52
+  },
+  "CD-36 13940 A": {
+    "system_name": "CD-36 13940",
+    "component": "A",
+    "separation": null,
+    "system_components": 2,
+    "system_distance": 19.74
+  },
+  "CD-36 13940 B": {
+    "system_name": "CD-36 13940",
+    "component": "B",
+    "separation": "AB:42 AU",
+    "system_components": 2,
+    "system_distance": 19.74
+  }
+}
