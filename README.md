@@ -1,6 +1,6 @@
 # Solar Neighborhood Visualization
 
-A 3D interactive visualization of stars within 20 light years of our Sun, along with the solar system for scale.
+A 3D interactive visualization of stars within 20 light years of our Sun.
 
 This is just a small project, generated almost entirely using Claude Code research preview.
 
@@ -49,7 +49,6 @@ On Windows I run it from Powershell, running from WSL is a bit tricky.
 ### Command Line Options
 
 - `--max-distance`: Maximum distance from Sun in light years (default: 20)
-- `--no-solar-system`: Disable solar system visualization
 - `--port`: Port to run dash app on (default: 8050)
 
 ### Examples
@@ -58,8 +57,6 @@ On Windows I run it from Powershell, running from WSL is a bit tricky.
 # Run the application with default settings
 python main.py
 
-# Run without solar system visualization
-python main.py --no-solar-system
 
 # Show only stars within 10 light years
 python main.py --max-distance 10
@@ -77,17 +74,10 @@ The star dataset includes:
 - Absolute magnitudes
 - B-V color indices (converted to RGB for visualization)
 
-For the solar system:
-- Planet names
-- Distances from the Sun in astronomical units (AU)
-- Relative sizes
-- Approximate colors
 
 ## Future Improvements
 
 - Add more stars with data from astronomical catalogs
 - Include proper motion vectors
-- Add more detailed solar system models
-- Implement time-based animations for orbits
 - Add search functionality
 - Include more stellar properties

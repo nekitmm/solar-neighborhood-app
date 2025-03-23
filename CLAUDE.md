@@ -20,8 +20,6 @@ python main.py
 # Run with a specific maximum distance
 python main.py --max-distance 15
 
-# Run without solar system
-python main.py --no-solar-system
 ```
 
 ## Code Style Preferences

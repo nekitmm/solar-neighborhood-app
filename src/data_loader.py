@@ -437,24 +437,3 @@ def b_v_to_rgb(b_v):
     # Return as hex color
     return f'#{int(r):02x}{int(g):02x}{int(b):02x}'
 
-def load_solar_system():
-    """
-    Load data for solar system objects.
-    Returns a DataFrame with position and orbit information.
-    """
-    # Distances in AU
-    planets = {
-        'name': ['Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter', 'Saturn', 'Uranus', 'Neptune'],
-        'distance_au': [0.39, 0.72, 1.0, 1.52, 5.20, 9.58, 19.18, 30.07],
-        'size': [0.383, 0.949, 1.0, 0.532, 11.21, 9.45, 4.01, 3.88],  # Relative to Earth
-        'color': ['#c6c6c6', '#e7dfd3', '#3d7bae', '#d8845b', '#e1bf92', '#f9f2d6', '#caecf7', '#3e5fa9']
-    }
-    
-    return pd.DataFrame(planets)
-
-def convert_to_light_years(df):
-    """Convert solar system object distances from AU to light years for visualization."""
-    # 1 AU = 1.58e-5 light years
-    au_to_ly = 1.58e-5
-    df['distance_ly'] = df['distance_au'] * au_to_ly
-    return df
