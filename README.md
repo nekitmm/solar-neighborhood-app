@@ -12,14 +12,16 @@ This is just a small project, generated almost entirely using Claude Code resear
 
 ## Features
 
-- Visualize stars with accurate positions and colors
-- Interactive 3D rotation and zoom
-- Filter stars by distance
-- Highlight bright stars
-- View detailed information about each star
-- Measure distances
-- Create "star-hopping" routes between stars
-- etc.
+- Visualize stars with accurate positions and colors based on spectral class
+- Interactive 3D navigation with keyboard/mouse controls
+- Center view on selected stars
+- Toggle display of star names
+- Visualize the galactic plane and coordinate grid
+- Show projections of stars onto the galactic plane
+- Display detailed information about multiple star systems
+- Measure distances between stars
+- Create and visualize "star-hopping" routes between stars
+- Save and restore different view positions
 
 ## Installation
 
@@ -49,7 +51,7 @@ On Windows I run it from Powershell, running from WSL is a bit tricky.
 ### Command Line Options
 
 - `--max-distance`: Maximum distance from Sun in light years (default: 20)
-- `--port`: Port to run dash app on (default: 8050)
+- `--fullscreen`: Run in fullscreen mode
 
 ### Examples
 
@@ -57,15 +59,16 @@ On Windows I run it from Powershell, running from WSL is a bit tricky.
 # Run the application with default settings
 python main.py
 
-
 # Show only stars within 10 light years
 python main.py --max-distance 10
 
-# Run on a different port
-python main.py --port 8080
+# Run in fullscreen mode
+python main.py --fullscreen
 ```
 
 ## Data Sources
+
+Star data is sourced from [Atlas of the Universe](http://www.atlasoftheuniverse.com/nearstar.html). Special thanks to Richard Powell for compiling and providing this data (as of 2006).
 
 The star dataset includes:
 - Star names
@@ -73,6 +76,7 @@ The star dataset includes:
 - 3D coordinates (x, y, z)
 - Absolute magnitudes
 - B-V color indices (converted to RGB for visualization)
+- Spectral classification
 
 
 ## Future Improvements
