@@ -6,7 +6,7 @@ This is just a small project, generated almost entirely using Claude Code resear
 
 <br/>
 <p align="center">
-    <img width="70%" src="https://raw.githubusercontent.com/nekitmm/solar-neighborhood-app/main/screenshot.png" alt="Example screenshot of the app">
+    <img width="100%" src="https://raw.githubusercontent.com/nekitmm/solar-neighborhood-app/main/screenshot.png" alt="Example screenshot of the app">
 </p>
 <br/>
 
@@ -14,11 +14,12 @@ This is just a small project, generated almost entirely using Claude Code resear
 
 - Visualize stars with accurate positions and colors
 - Interactive 3D rotation and zoom
-- Solar system with orbits for scale comparison
-- Interactive Dash web application interface
 - Filter stars by distance
 - Highlight bright stars
 - View detailed information about each star
+- Measure distances
+- Create "star-hopping" routes between stars
+- etc.
 
 ## Installation
 
