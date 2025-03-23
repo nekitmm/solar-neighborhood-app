@@ -2,6 +2,14 @@
 
 A 3D interactive visualization of stars within 20 light years of our Sun, along with the solar system for scale.
 
+This is just a small project, generated almost entirely using Claude Code research preview.
+
+<br/>
+<p align="center">
+    <img width="70%" src="https://raw.githubusercontent.com/nekitmm/solar-neighborhood-app/main/screenshot.png" alt="Example screenshot of the app">
+</p>
+<br/>
+
 ## Features
 
 - Visualize stars with accurate positions and colors
@@ -34,6 +42,8 @@ Run the application with the following command:
 ```bash
 python main.py
 ```
+
+On Windows I run it from Powershell, running from WSL is a bit tricky.
 
 ### Command Line Options
 
