@@ -1193,7 +1193,6 @@ class PyGameVisualizer:
                 "title": "Features",
                 "color": (255, 180, 100),  # Orange
                 "controls": [
-                    {"key": "Tab", "action": "Toggle solar system"},
                     {"key": "N", "action": f"Toggle star names ({'ON' if self.show_star_names else 'OFF'})"},
                     {"key": "G", "action": f"Toggle galactic plane ({'ON' if self.show_galactic_plane else 'OFF'})"},
                     {"key": "H", "action": f"Toggle coordinate grid ({'ON' if self.show_coordinate_grid else 'OFF'})"},

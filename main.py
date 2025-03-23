@@ -24,6 +24,8 @@ def main():
     print("- R key: Reset rotation")
     print("- Mouse wheel: Zoom in/out")
     print("- C key: Center view on selected star")
+    print("- 0 key: Center on Sun")
+    print("- Shift+Click: Set rotation center")
     print("- +/- keys: Adjust render distance")
     
     print("\nVisualization:")
